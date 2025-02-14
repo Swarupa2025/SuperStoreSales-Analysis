@@ -63,10 +63,8 @@ To ensure accurate visualizations, we used **three different datasets from diffe
 
 
 
-## 📂 Repository Structure
-- `tableau_files/` → Contains **Tableau Packaged Workbook (.twbx)**.
-- `visualizations/` → PNG/JPG exports of key Tableau dashboards.
+## 📂 Repository Structure 
+- `visualizations/` → Contains **Tableau Packaged Workbook (.twbx)**, PNG/JPG exports of key Tableau dashboards.
 - `data/` → Raw and cleaned datasets.
-- `tableau_prep/` → **Tableau Prep workflow file (`.tflx`)** for data cleaning.
-- `scripts/` → Python/SQL scripts for preprocessing (if applicable).
-- `docs/` → Additional documentation explaining the project.
+- `tableau_prep/` → **Tableau Prep workflow file (`Flow1.tflx`)** for data cleaning.
+- `documentation/` → Additional documentation explaining the project-report of the analysis.
