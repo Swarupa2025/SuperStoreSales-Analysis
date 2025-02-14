@@ -1,5 +1,5 @@
 Data Preparation File
 You can find the Tableau Prep workflow file (`data_prep.tflx`) in the `tableau_prep/` folder. To reproduce the cleaned dataset:
-1. Open Tableau Prep Builder.
-2. Load the `data_prep.tflx` file.
-3. Run the workflow to generate `cleaned_data.csv`.
+# Open Tableau Prep Builder.
+# Load the `data_prep.tflx` file.
+# Run the workflow to generate `cleaned_data.csv`.
