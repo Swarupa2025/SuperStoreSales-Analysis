@@ -14,7 +14,7 @@
 
 ![Dashboard](Dashboard-1.png)  
 
-For more detailed visualizations --->[Open Tableau Viz-1](Visualizations/Question-1.twbx)
+For more detailed visualizations --->[Open Tableau Viz-1](Question-1.twbx)
 
 ### **2️⃣ 	How do profit and shipping times vary across different states, and how can we improve them?**
    - **Descriptive:** What are the average shipping times for each shipping mode in different states?
@@ -31,7 +31,7 @@ For more detailed visualizations --->[Open Tableau Viz-1](Visualizations/Questio
 
 ![Dashboard](Dashboard-2.png)  
 
-For more detailed visualizations --->[Open Tableau Viz-2](Visualizations/Question-2.twbx)
+For more detailed visualizations --->[Open Tableau Viz-2](Question-2.twbx)
 
 ### **3️⃣ 	How can we improve sales performance in states with less sales, considering factors like shipping duration and customer segments?**
    - **Descriptive:** What states are showing less sales?
@@ -48,6 +48,6 @@ For more detailed visualizations --->[Open Tableau Viz-2](Visualizations/Questio
 
 ![Visualizations](Dashboard-3.png)  
 
-For more detailed visualizations --->[Open Tableau Viz-3](Visualizations/Question-3.twbx)
+For more detailed visualizations --->[Open Tableau Viz-3](Question-3.twbx)
 
 ---
