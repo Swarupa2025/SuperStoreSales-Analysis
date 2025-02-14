@@ -55,7 +55,7 @@ To ensure accurate visualizations, we used **three different datasets from diffe
 🔹 **Workflow Screenshot:**  
 ![Tableau Prep](tableau_prep/prep_workflow_screenshot.png)
 
----
+
 
 ## 📂 Repository Structure
 - `tableau_files/` → Contains **Tableau Packaged Workbook (.twbx)**.
@@ -64,10 +64,3 @@ To ensure accurate visualizations, we used **three different datasets from diffe
 - `tableau_prep/` → **Tableau Prep workflow file (`.tflx`)** for data cleaning.
 - `scripts/` → Python/SQL scripts for preprocessing (if applicable).
 - `docs/` → Additional documentation explaining the project.
-
----
-
-## 🛠️ **How to Use This Project**
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/Tableau-Project-Name.git
