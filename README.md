@@ -51,9 +51,12 @@ To ensure accurate visualizations, we used **three different datasets from diffe
 | `superstore dataset.csv`   | 2019-2022   | 
 | `Superstore Sales.csv` | Final Merged Data(2011-2022) | Processed via Tableau Prep |
 
-🔹 **Tableau Prep Workflow (`data_prep.tflx`)** is included in the **`tableau_prep/`** folder.  
-🔹 **Workflow Screenshot:**  
-![Tableau Prep](tableau_prep/prep_workflow_screenshot.png)
+🔹 **Tableau Prep Workflow (`data_prep.tflx`)** is included in the **`tableau_prep/`** folder.
+
+
+🔹 **Workflow Screenshot:** 
+
+![Tableau Prep](Tableau_Prep/tableau_prep_workflow.png)
 
 
 
