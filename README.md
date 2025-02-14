@@ -20,7 +20,8 @@ This project explores Superstore Sales trends over multiple time periods, focusi
    - **Prescriptive:** What strategies should be implemented to improve profits in low-performing regions??
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question1_dashboard.png)
+
+![Dashboard](Visualizations/Dashboard-1.png)
 
 ### **2️⃣ Strategic Question 2 -	How do profit and shipping times vary across different states, and how can we improve them?**
    - **Descriptive:** What are the average shipping times for each shipping mode in different states? ?
@@ -28,15 +29,17 @@ This project explores Superstore Sales trends over multiple time periods, focusi
    - **Prescriptive:** What logistics improvements can be made to optimize shipping times and increase profits?
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question2_dashboard.png)
+
+![Dashboard](Visualizations/Dashboard-2.png)
 
 ### **3️⃣ Strategic Question 3 - 	How can we improve sales performance in states with less sales, considering factors like shipping duration and customer segments?**
    - **Descriptive:** What states are showing less sales? 
    - **Predictive:** Can improving shipping durations boost future sales performance?
    - **Prescriptive:** What strategies can boost sales in these states?
 
-🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question3_dashboard.png)
+🔹 **Dashboard Screenshot:** 
+
+![Dashboard](Visualizations/Dashboard-3.png)
 
 ---
 
