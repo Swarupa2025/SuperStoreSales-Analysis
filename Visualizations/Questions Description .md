@@ -11,7 +11,7 @@
      To improve low-performing regions, limiting discounts below 15% in the South and Central can boost profits. Aligning Texas and Illinois’ discount policies with high-performing states enhances margins. Targeting high-value customers and implementing region-specific pricing further drive profitability.
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question1_dashboard.png)  
+![Dashboard](Visualizations/question1_dashboard.png)  
 
 For more detailed visualizations --->[Open Tableau Viz-1](Visualizations/Question-1.twbx)
 
@@ -27,7 +27,7 @@ For more detailed visualizations --->[Open Tableau Viz-1](Visualizations/Questio
      To enhance shipping efficiency and profitability, **faster modes like Same Day and First Class** should be prioritized for high-value customers in key states like **California and Texas**. **Strategic warehousing** in high-demand regions and **route optimization** can reduce delays, especially for **Standard Class** in states like **Wyoming and Montana**. A **segmented shipping strategy** ensures corporate clients get faster options, while real-time **monitoring and analytics** streamline logistics and improve customer satisfaction.
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question2_dashboard.png)  
+![Dashboard](Visualizations/question2_dashboard.png)  
 
 For more detailed visualizations --->[Open Tableau Viz-2](Visualizations/Question-2.twbx)
 
@@ -43,7 +43,7 @@ For more detailed visualizations --->[Open Tableau Viz-2](Visualizations/Questio
      To boost sales in low-performing states, focus on **Corporate and Home Office segments** through **targeted marketing, bulk discounts, and localized campaigns**. Partner with **local businesses** for corporate discounts and adjust pricing strategies to attract high-value customers. Prioritize **high-margin products like Technology and Office Supplies** while implementing **loyalty programs and exclusive offers** to enhance customer retention and long-term growth.
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](visualizations/question3_dashboard.png)  
+![Dashboard](Visualizations/question3_dashboard.png)  
 
 For more detailed visualizations --->[Open Tableau Viz-3](Visualizations/Question-3.twbx)
 
