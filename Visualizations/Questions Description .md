@@ -43,7 +43,7 @@ For more detailed visualizations --->[Open Tableau Viz-2](Visualizations/Questio
      To boost sales in low-performing states, focus on **Corporate and Home Office segments** through **targeted marketing, bulk discounts, and localized campaigns**. Partner with **local businesses** for corporate discounts and adjust pricing strategies to attract high-value customers. Prioritize **high-margin products like Technology and Office Supplies** while implementing **loyalty programs and exclusive offers** to enhance customer retention and long-term growth.
 
 🔹 **Dashboard Screenshot:**  
-![Dashboard](Visualizations/question3_dashboard.png)  
+![Visualizations](Visualizations/question3_dashboard.png)  
 
 For more detailed visualizations --->[Open Tableau Viz-3](Visualizations/Question-3.twbx)
 
