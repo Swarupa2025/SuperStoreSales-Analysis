@@ -49,7 +49,7 @@ To ensure accurate visualizations, we used **three different datasets from diffe
 | `Superstore copy.csv`   | 2011-2014   | 
 | `Sample - Superstore.csv`   | 2015-2018   |
 | `superstore dataset.csv`   | 2019-2022   | 
-| `Superstore Sales` | Final Merged Data(2011-2022) | Processed via Tableau Prep |
+| `Superstore Sales.csv` | Final Merged Data(2011-2022) | Processed via Tableau Prep |
 
 🔹 **Tableau Prep Workflow (`data_prep.tflx`)** is included in the **`tableau_prep/`** folder.  
 🔹 **Workflow Screenshot:**  
